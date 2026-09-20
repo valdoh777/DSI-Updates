@@ -1,8 +1,8 @@
 version: 0.2.2
 files:
   - url: https://github.com/valdoh777/DSI-Professional/releases/download/v0.2.2/DSI-Professional-0.2.2-Setup.exe
-    sha512: rQ6QvlySb41ShGkY1CE7re5ZvVjx+sa5ZOJxsh8GkexIAQpqLOU9C11++GTsnc/+lnD2xltpeqVzCR9QBQUgDw==
-    size: 110726058
+    sha512: 0AiXSjDZNgXQ99ZJQifj7K2OT+XSATzcMQ8pTubLDJgu6kp722DcekU/3HlJE5HUzDbCSXlY0X6Bz4VjpCWFaw==
+    size: 110726145
 path: DSI-Professional-0.2.2-Setup.exe
-sha512: rQ6QvlySb41ShGkY1CE7re5ZvVjx+sa5ZOJxsh8GkexIAQpqLOU9C11++GTsnc/+lnD2xltpeqVzCR9QBQUgDw==
-releaseDate: '2026-09-20T23:46:42.056Z'
+sha512: 0AiXSjDZNgXQ99ZJQifj7K2OT+XSATzcMQ8pTubLDJgu6kp722DcekU/3HlJE5HUzDbCSXlY0X6Bz4VjpCWFaw==
+releaseDate: '2026-09-20T23:55:08.632Z'
