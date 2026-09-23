@@ -1,8 +1,8 @@
-version: 0.3.1
+version: 0.3.2
 files:
-  - url: https://github.com/valdoh777/DSI-Updates/releases/download/v0.3.1/DSI-Professional-0.3.1-Setup.exe
-    sha512: bIgSEsZSuXjJxf27U/zvHmthNCyC3raUGiCLNhrRPr3TJSnuQtWJfnzi0v4npxCI9xzNqflcAdRQc/qV1nM21Q==
-    size: 110728522
-path: DSI-Professional-0.3.1-Setup.exe
-sha512: bIgSEsZSuXjJxf27U/zvHmthNCyC3raUGiCLNhrRPr3TJSnuQtWJfnzi0v4npxCI9xzNqflcAdRQc/qV1nM21Q==
-releaseDate: '2026-09-23T01:38:42.652Z'
+  - url: https://github.com/valdoh777/DSI-Updates/releases/download/v0.3.2/DSI-Professional-0.3.2-Setup.exe
+    sha512: PWTpts+N/xOQ8AscPk7zyxklFQcuZfvqJN69QDoi+OPbRHqeW5x5VFUsKmaxDIpSUe3UCbUN140bBDrF1+55sQ==
+    size: 110728609
+path: DSI-Professional-0.3.2-Setup.exe
+sha512: PWTpts+N/xOQ8AscPk7zyxklFQcuZfvqJN69QDoi+OPbRHqeW5x5VFUsKmaxDIpSUe3UCbUN140bBDrF1+55sQ==
+releaseDate: '2026-09-23T22:42:41.071Z'
